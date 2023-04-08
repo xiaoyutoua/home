@@ -1,0 +1,21 @@
+[{
+    "name": "Github",
+    "icon": "/images/icon/github.png",
+    "tip": "去 Github 看看",
+    "url": "https://github.com/imsyy"
+},  {
+    "name": "QQ",
+    "icon": "/images/icon/qq.png",
+    "tip": "有什么事吗",
+    "url": "https://res.abeim.cn/api/qq/?qq=2143191301"
+}, {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "来封 Email ~",
+    "url": "mailto:2143191301@qq.com"
+}, {
+    "name": "CSDN",
+    "icon": "/images/icon/csdn.png",
+    "tip": "你懂的 ~",
+    "url": "https://blog.csdn.net/weixin_64440714?spm=1000.2115.3001.5343"
+}]
